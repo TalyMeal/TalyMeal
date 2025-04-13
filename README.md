@@ -13,6 +13,13 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white "Node.js")
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white "Express.js")
 
+### DS/DA
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SCIKIT-LEARN](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white)
+
 ### Tools & Platforms
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white "Docker")
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white "Git")
@@ -29,21 +36,23 @@
 ![SEO Optimization](https://img.shields.io/badge/-SEO-47A248?style=flat-square&logo=protodotio&logoColor=white "SEO")
 
 ## 💼 Professional Experience
-I have a diverse background in building engaging user interfaces and web solutions with a focus on mentoring and team efficiency. I've been involved in:
-- Rebuilding and expanding a team bot to a corporate messenger and migrating to new clusters.
-- Participation in the transition of a dental equipment maintenance project to a microservice architecture.
-- Optimizing applications for SEO and enhancing user engagement.
-- Collaborating on the development of new features and functionalities across various platforms.
-- Mentoring juniors and contributing to internal educational initiatives.
+I have a diverse background in developing innovative web platforms that deliver robust performance and an engaging user experience. I've been involved in:
+
+- Developing of a corporate monitoring platform for SEO analysis of client sites, working closely with analysts and cross-functional teams.
+- Designing and implementing core functionalities and building personalized user dashboard pages, including a custom dashboard constructor for client reporting and real-time monitoring.
+- Optimizing dashboard performance to boost page load speeds by up to 30% and improve the efficiency of user operations by 25–40% through continuous UX enhancements.
+- Creating intuitive mobile interface elements for a monitoring application using Tauri.
+- Developing an educational online platform that bridges communication between dancers and instructors, where I built comprehensive user account features.
+- Implementing scheduling functionalities and video content upload systems, with robust table management via Material React Table and seamless integration with the backend through REST API and React Query.
+- Proactively identifying and resolving errors to ensure a smooth and efficient user experience.
 
 ## 🙋‍♂️ A Bit About Me
 > 🏢 I'm currently working at Web Smart, but **I'm open to offers to work abroad. I prefer to work remotely**. \
-> 👨‍💻 I **enjoy mentoring people**. If there are juniors on the team, I would love to help. I have experience. \
 > 🤖 I'm looking for help with software architecture. \
 > 🌍 I believe **robots have already taken over the world**.
 
 ## 🎨 Hobbies
-In my free time, I enjoy street photography, exploring cinematography, and longboarding.
+In my free time, I enjoy hiking, paragliding, and longboarding.
 
 
 
