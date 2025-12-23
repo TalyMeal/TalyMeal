@@ -21,16 +21,10 @@
 ![SEO Optimization](https://img.shields.io/badge/-SEO-47A248?style=flat-square&logo=protodotio&logoColor=white "SEO")
 
 ## 💼 Professional Experience
-## 🙋‍♂️ A Bit About Me
-
-## 🎨 Hobbies
-In my free time, I enjoy hiking, paragliding, and longboarding.
-
 
 
 ## 🔗 Links
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/diewildejagd)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexey-sukhanov)
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furyseer@gmail.com)
 
 
